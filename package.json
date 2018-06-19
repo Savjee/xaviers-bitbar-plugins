@@ -5,8 +5,8 @@
   "author": "Xavier Decuyper <hi@savjee.be>",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^4.0.0",
-    "request": "^2.83.0",
+    "dotenv": "^6.0.0",
+    "request": "^2.87.0",
     "request-promise-native": "^1.0.5"
   }
 }
